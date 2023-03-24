@@ -6,7 +6,7 @@
   "author": "Derek Li",
   "scripts": {
     "checkin": "ts-node checkin.js",
-    "seagold": "ts-node seagold.js"
+    //"seagold": "ts-node seagold.js"
   },
   "dependencies": {
     "axios": "^0.27.2",
